@@ -1,5 +1,5 @@
 var jabba = [{
-  id: "1",
+  id: 1,
   name: "the hut",
 }];
 

@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 
 
 app.get('/', function (request, response) {
-    response.json(data.jabba.id);
+    response.json(data);
     // response.json(data.cites);
 });
 
