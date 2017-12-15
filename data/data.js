@@ -23,17 +23,17 @@ var teams = [{
   id: 1,
   team: "colorado rapids",
   division: "mls",
-  division_rank: 1
+  website: "http://www.nba.com/nuggets/"
 }, {
   id: 2,
   team: "phoenix rising fc",
   division: "nasl",
-  division_rank: 2
+  website: "http://www.phxrisingfc.com/"
 }];
 
 
 module.exports = {
-  jabba,
+  // jabba,
   cities,
   teams
 }
