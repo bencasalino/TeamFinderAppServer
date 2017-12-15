@@ -3,13 +3,6 @@ var jabba = [{
   name: "the hut",
 }];
 
-
-
-module.exports = {
-  jabba
-}
-
-
 // students —> classes
 // cities —> teams
 
@@ -35,3 +28,10 @@ var teams = [{
   division: "nasl",
   division_rank: 2
 }];
+
+
+module.exports = {
+  jabba
+  cities
+  teams
+}
