@@ -13,12 +13,12 @@ app.use(bodyParser.json());
 app.get('/', function (request, response) {
     response.json(data.teams);
     response.json(data.cites);
-      console.log("get route log from app.js ");
+      // console.log("get route log from app.js ");
 });
 
 // post route in js
 app.post("/", (request, response) => {
-  response.json(" hpost route from app.js ");
+  response.json(" post route from app.js ");
 });
 
 
