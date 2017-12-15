@@ -17,7 +17,7 @@ app.get('/', function (request, response) {
 });
 
 app.post("/", (request, response) => {
-  response.json(request;
+  response.json(request);
 });
 
 
