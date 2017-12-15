@@ -12,12 +12,12 @@ app.use(bodyParser.json());
 
 
 app.get('/', function (request, response) {
-    response.json(data.teams);
+    response.json(data.jabba.id);
     // response.json(data.cites);
 });
 
 app.post("/", (request, response) => {
-  response.json(" post route from app js");
+  response.json("post route from app js");
 });
 
 
