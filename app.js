@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 
 
 app.get('/', function (request, response) {
-    response.json(data.jabba);
+    response.json(data.teams);
 });
 
 app.post("/", (request, response) => {
@@ -24,7 +24,7 @@ app.post("/", (request, response) => {
 
 
 app.listen(process.env.PORT || 9000,() => {
-  console.log("skadjalsd");
+  console.log("this is the app.ls .log");
 }
 
 );

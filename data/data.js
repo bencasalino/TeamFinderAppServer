@@ -31,7 +31,7 @@ var teams = [{
 
 
 module.exports = {
-  jabba
-  cities
+  // jabba,
+  cities,
   teams
 }
