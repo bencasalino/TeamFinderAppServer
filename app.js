@@ -14,6 +14,7 @@ app.use(bodyParser.json());
 
 app.get('/', function (request, response) {
     response.json(data.teams);
+    response.json(data.cites);
 });
 
 app.post("/", (request, response) => {
