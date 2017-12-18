@@ -30,7 +30,9 @@ var teams = [{
   city: "denver",
   team: "colorado rapids",
   division: "mls",
-  website: "http://www.nba.com/nuggets/"
+  website: "http://www.nba.com/nuggets/",
+  // hmmmmmmmmmm???????
+  image: "denverlogo.jpg"
 }, {
   city: "phoenix",
   team: "phoenix rising fc",
