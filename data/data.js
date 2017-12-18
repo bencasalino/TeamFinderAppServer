@@ -109,8 +109,6 @@ var cities = [{
   state: "California",
   country: "USA"
 }
-
-
 ];
 
 
