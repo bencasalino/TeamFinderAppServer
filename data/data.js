@@ -42,7 +42,7 @@ var teams = [{
   division: "mls",
   website: "http://www.timbers.com/"
 },{
-  city: "salt lake city",
+  city: "salt lake",
   team: "real salt lake fc",
   division: "mls",
   website: "http://rsl.com/"
