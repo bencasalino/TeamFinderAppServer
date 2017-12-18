@@ -25,7 +25,7 @@ var teams = [{
   website: "http://www.phxrisingfc.com/",
   image: "rapids.gif"
 }
-}];
+];
 
 
 
