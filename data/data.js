@@ -35,8 +35,8 @@ var cities = [{
   country: "USA"
 }, {
   id: 8,
-  name: "New York City",
-  state: "New York",
+  name: "Harrison",
+  state: "New Jersey",
   country: "USA"
 }, {
   id: 9,
@@ -165,7 +165,7 @@ var teams = [
   image: "atl.gif"
 },
 {
-  city: "New York",
+  city: "Harrison",
   team: "New York Red Bulls",
   division: "MLS",
   website: "http://www.atl.com/",
