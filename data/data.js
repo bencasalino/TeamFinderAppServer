@@ -118,35 +118,35 @@ var teams = [
   team: "Atlanta United FC",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "client/images/atl.gif"
 },
 {
   city: "Chicago",
   team: "Chicago Fire FC",
   division: "MLS",
   website: "http://www.chi.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Columbus",
   team: "Columbus Crew",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "/client/images/atl.gif"
 },
 {
   city: "Washington",
   team: "D.C. United",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "/images/atl.gif"
 },
 {
   city: "Montreal",
   team: "Montreal Impact FC",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "New England",
