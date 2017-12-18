@@ -29,13 +29,13 @@ var cities = [{
 
 
 var teams = [{
-  city: "DENVER",
-  team: "Colorado Rapids",
+  city: "Denver",
+  team: "COLORADO",
   division: "MLS",
   website: "http://www.nba.com/nuggets/",
   image: "rapids.gif"
 }, {
-  city: "Phoenixx",
+  city: "Phoenixxxxxx",
   team: "Phoenix Rising FC",
   division: "NASL",
   website: "http://www.phxrisingfc.com/"
