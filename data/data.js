@@ -42,10 +42,10 @@ var teams = [{
   division: "mls",
   website: "http://www.timbers.com/"
 },{
-  city: "salt lake ciry",
+  city: "salt lake city",
   team: "real salt lake fc",
   division: "mls",
-  website: "http://www.nba.com/nuggets/"
+  website: "http://rsl.com/"
 }, {
   city: "los angeles",
   team: "LAFC",
