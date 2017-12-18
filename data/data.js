@@ -8,29 +8,13 @@ var cities = [{
   name: "Phoenix",
   state: "Arizona",
   country: "USA"
-}, {
-  id: 3,
-  name: "Portland",
-  state: "Oregon",
-  country: "USA"
-}, {
-  id: 4,
-  name: "Salt Lake City",
-  state: "Utah",
-  country: "USA"
-}, {
-  id: 5,
-  name: "Los Angeles",
-  state: "California",
-  country: "USA"
 }
-
 ];
 
 
 var teams = [{
   city: "Denver",
-  team: "COLORADO Rapids FC",
+  team: "Colorado Rapids FC",
   division: "MLS",
   website: "http://www.nba.com/nuggets/",
   image: "rapids.gif"
@@ -38,22 +22,9 @@ var teams = [{
   city: "Phoenix",
   team: "Phoenix Rising FC",
   division: "NASL",
-  website: "http://www.phxrisingfc.com/"
-}, {
-  city: "Portland",
-  team: "Portland Timbers",
-  division: "MLS",
-  website: "http://www.timbers.com/"
-},{
-  city: "Salt Lake City",
-  team: "Real Salt Lake",
-  division: "MLS",
-  website: "http://rsl.com/"
-}, {
-  city: "Los Angeles",
-  team: "LAFC",
-  division: "MLS",
-  website: "https://www.lafc.com/"
+  website: "http://www.phxrisingfc.com/",
+  image: "rapids.gif"
+}
 }];
 
 

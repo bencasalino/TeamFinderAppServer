@@ -15,7 +15,7 @@ function combine(data1, data2) {
         result[i].team = data2[j].team
         result[i].division = data2[j].division
         result[i].website = data2[j].website
-        result[i].teamLogo = data2[j].teamlogo
+        result[i].image = data2[j].image
       }
     }
   }
