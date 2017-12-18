@@ -1,57 +1,56 @@
 var cities = [{
   id: 1,
-  name: "denver",
-  state: "colorado",
-  country: "usa"
+  name: "Denver",
+  state: "Colorado",
+  country: "USA"
 }, {
   id: 2,
-  name: "phoenix",
-  state: "arizona",
-  country: "usa"
+  name: "Phoenix",
+  state: "Arizona",
+  country: "USA"
 }, {
   id: 3,
-  name: "portland",
-  state: "oregon",
-  country: "usa"
+  name: "Portland",
+  state: "Oregon",
+  country: "USA"
 }, {
   id: 4,
-  name: "salt lake",
-  state: "utah",
-  country: "usa"
+  name: "Salt Lake City",
+  state: "Utah",
+  country: "USA"
 }, {
   id: 5,
-  name: "los angeles",
-  state: "california",
-  country: "usa"
+  name: "Los Angeles",
+  state: "California",
+  country: "USA"
 }];
 
 
 var teams = [{
-  city: "denver",
-  team: "colorado rapids",
-  division: "mls",
+  city: "Denver",
+  team: "Colorado Rapids",
+  division: "MLS",
   website: "http://www.nba.com/nuggets/",
-  // hmmmmmmmmmm???????
-  image: "denverlogo.jpg"
+  image: "rapids.gif"
 }, {
-  city: "phoenix",
-  team: "phoenix rising fc",
-  division: "nasl",
+  city: "Phoenix",
+  team: "Phoenix Rising FC",
+  division: "NASL",
   website: "http://www.phxrisingfc.com/"
 }, {
-  city: "portland",
-  team: "portland timbers",
-  division: "mls",
+  city: "Portland",
+  team: "Portland Timbers",
+  division: "MLS",
   website: "http://www.timbers.com/"
 },{
-  city: "salt lake",
-  team: "real salt lake fc",
-  division: "mls",
+  city: "Salt Lake City",
+  team: "Real Salt Lake",
+  division: "MLS",
   website: "http://rsl.com/"
 }, {
-  city: "los angeles",
+  city: "Los Angeles",
   team: "LAFC",
-  division: "mls",
+  division: "MLS",
   website: "https://www.lafc.com/"
 }];
 
