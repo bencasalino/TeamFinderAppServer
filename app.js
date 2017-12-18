@@ -37,5 +37,4 @@ app.listen(process.env.PORT || 9000, () => {
   console.log("this is the app js log");
 });
 
-
 // console.log(combine(cities, teams));
