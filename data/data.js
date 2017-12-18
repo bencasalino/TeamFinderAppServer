@@ -1,11 +1,3 @@
-// var jabba = [{
-//   id: 1,
-//   name: "the hut",
-// }];
-
-// students —> classes
-// cities —> teams
-
 var cities = [{
   id: 1,
   name: "denver",
@@ -15,6 +7,21 @@ var cities = [{
   id: 2,
   name: "phoenix",
   state: "arizona",
+  country: "usa"
+}, {
+  id: 3,
+  name: "portland",
+  state: "oregon",
+  country: "usa"
+}, {
+  id: 4,
+  name: "salt lake",
+  state: "utah",
+  country: "usa"
+}, {
+  id: 5,
+  name: "los angeles",
+  state: "california",
   country: "usa"
 }];
 
@@ -34,6 +41,16 @@ var teams = [{
   team: "portland timbers",
   division: "mls",
   website: "http://www.timbers.com/"
+},{
+  city: "salt lake ciry",
+  team: "real salt lake fc",
+  division: "mls",
+  website: "http://www.nba.com/nuggets/"
+}, {
+  city: "los angeles",
+  team: "LAFC",
+  division: "mls",
+  website: "https://www.lafc.com/"
 }];
 
 
