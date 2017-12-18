@@ -23,11 +23,18 @@ var cities = [{
   name: "Los Angeles",
   state: "California",
   country: "USA"
-}];
+}
+
+
+
+
+
+
+];
 
 
 var teams = [{
-  city: "Denver",
+  city: "DENVER",
   team: "Colorado Rapids",
   division: "MLS",
   website: "http://www.nba.com/nuggets/",
