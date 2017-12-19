@@ -118,7 +118,7 @@ var teams = [
   team: "Atlanta United FC",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "client/images/atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Chicago",
@@ -132,14 +132,14 @@ var teams = [
   team: "Columbus Crew",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "/client/images/atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Washington",
   team: "D.C. United",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "/images/atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Montreal",
@@ -153,119 +153,119 @@ var teams = [
   team: "New England Revolution",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "New York",
   team: "New York City United",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Harrison",
   team: "New York Red Bulls",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Orlando",
   team: "Orlando United FC",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Philadelphia",
   team: "Philadelphia Union",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Toronto",
   team: "Toronto FC",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Dallas",
   team: "FC Dallas",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Houston",
   team: "Houston Dynamo",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Los Angeles",
   team: "LAFC",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Minnesota",
   team: "Minnesota United",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Portland",
   team: "Portland Timbers",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Salt Lake City",
   team: "Real Salt Lake",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "San Jose",
   team: "San Jose Earthquakes",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Seattle",
   team: "Seattle Sounders",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Kansas City",
   team: "Sporting KC",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Vancouver",
   team: "Vancouver Whitecaps",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 },
 {
   city: "Carson",
   team: "LA Galaxy",
   division: "MLS",
   website: "http://www.atl.com/",
-  image: "atl.gif"
+  image: "images/atl.gif"
 }
 ];
 
