@@ -138,38 +138,271 @@ var cities = [{
   name: "Jacksonville",
   state: "Florida",
   country: "USA"
+},{
+  id: 29,
+  name: "Bethelehem",
+  state: "Pennsylvania",
+  country: "USA"
+},{
+  id: 30,
+  name: "Charleston",
+  state: "South Carolina",
+  country: "USA"
+},{
+  id: 31,
+  name: "Charlotte",
+  state: "North Carolina",
+  country: "USA"
+},{
+  id: 32,
+  name: "Colorado Springs",
+  state: "Colorado",
+  country: "USA"
+},{
+  id: 33,
+  name: "Cincinnati",
+  state: "Ohio",
+  country: "USA"
+},{
+  id: 34,
+  name: "Harrisburg",
+  state: "Pennsylvania",
+  country: "USA"
+},{
+  id: 35,
+  name: "Louisville",
+  state: "Kentucky",
+  country: "USA"
+},{
+  id: 36,
+  name: "Oklahoma City",
+  state: "Oklahoma",
+  country: "USA"
+},{
+  id: 37,
+  name: "Orange County",
+  state: "California",
+  country: "USA"
+},{
+  id: 38,
+  name: "Ottawa",
+  state: "Ontario",
+  country: "Canada"
+},{
+  id: 39,
+  name: "Pittsburg",
+  state: "Pennsylvania",
+  country: "USA"
+},{
+  id: 40,
+  name: "Reno",
+  state: "Nevada",
+  country: "USA"
+},{
+  id: 41,
+  name: "Richmond",
+  state: "Virgina",
+  country: "USA"
+},{
+  id: 42,
+  name: "Rochester",
+  state: "New York",
+  country: "USA"
+},{
+  id: 43,
+  name: "Sacramento",
+  state: "California",
+  country: "USA"
+},{
+  id: 44,
+  name: "St. Louis",
+  state: "Missouri",
+  country: "USA"
+},{
+  id: 45,
+  name: "San Antonio",
+  state: "Texas",
+  country: "USA"
+},{
+  id: 46,
+  name: "Springfield",
+  state: "Missouri",
+  country: "USA"
+},{
+  id: 47,
+  name: "Tampa Bay",
+  state: "Florida",
+  country: "USA"
+},{
+  id: 48,
+  name: "Tulsa",
+  state: "Oklahoma",
+  country: "USA"
+},{
+  id: 49,
+  name: "Tampa Bay",
+  state: "Florida",
+  country: "USA"
+},{
+  id: 50,
+  name: "Corpus Christi",
+  state: "Texas",
+  country: "USA"
 }
 ];
 
 // ****************************************************************************
 var teams = [
   {
-    city: "Indianapolis",
-    team: "Indy Eleven",
-    division: "images/nasl.png",
+    city: "Bethelehem",
+    team: "Bethelehem Steel FC",
+    division: "images/usl.png",
     website: "http://www.atl.com/",
-    image: "images/ind.png"
+    image: "images/beth.png"
+  },
+
+  {
+    city: "Charleston",
+    team: "Charleston Battery",
+    division: "images/usl.png",
+    website: "http://www.atl.com/",
+    image: "images/char.gif"
+  },
+
+
+  {
+    city: "Charlotte",
+    team: "Charlotte Independence",
+    division: "images/usl.png",
+    website: "http://www.atl.com/",
+    image: "images/cha.png"
   },
   {
-    city: "Miami",
-    team: "Miami FC",
-    division: "images/nasl.png",
+    city: "Colorado Springs",
+    team: "Springs Switcbacks FC",
+    division: "images/usl.png",
     website: "http://www.atl.com/",
-    image: "images/mia.png"
+    image: "images/cosp.png"
   },
   {
-    city: "New York",
-    team: "NY Cosmos",
+    city: "Cincinnati",
+    team: "FC Cincinnati",
     division: "images/nasl.png",
     website: "http://www.atl.com/",
-    image: "images/nycos.gif"
+    image: "images/cin.png"
   },
   {
-    city: "Jacksonville",
-    team: "Jacksonville Armada",
-  division: "images/nasl.png",
+    city: "Harrisburg",
+    team: "Harrisburg Islanders",
+  division: "images/usl.png",
     website: "http://www.armadafc.com/",
-    image: "images/jack.png"
+    image: "images/harris.png"
+  },
+  {
+    city: "Louisville",
+    team: "Louisville City FC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/lou.png"
+  },
+  {
+    city: "Orange County",
+    team: "Orange County SC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/orgco.png"
+  },
+  {
+    city: "Oklahoma City",
+    team: "OKC Energy FC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/okc.png"
+  },
+  {
+    city: "Ottawa",
+    team: "Ottawa Fury FC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/ott.png"
+  },
+  {
+    city: "Pittsburg",
+    team: "Pittsburg Riverounds",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/pitt.gif"
+  },
+  {
+    city: "Richmond",
+    team: "Richmond Kickers",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/rich.png"
+  },
+  {
+    city: "Reno",
+    team: "Reno 1868 FC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/reno.png"
+  },
+  {
+    city: "Corpus Christi",
+    team: "Rio Grande Valley FC",
+  division: "images/usl.png",
+    website: "http://www.rgvfc.com/",
+    image: "images/rio.png"
+  },
+  {
+    city: "Rochester",
+    team: "Rochester Rhinos",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/roch.png"
+  },
+  {
+    city: "Sacramento",
+    team: "Sacramento FC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/sac.png"
+  },
+  {
+    city: "St. Louis",
+    team: "St. Louis FC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/lou.png"
+  },
+  {
+    city: "San Antonio",
+    team: "San Antonio FC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/san.png"
+  },
+  {
+    city: "Springfield",
+    team: "Swope Park Rangers",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/kc2.png"
+  },
+  {
+    city: "Tampa Bay",
+    team: "Tampa Bay Rowdies",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/tb.png"
+  },
+
+  {
+    city: "Tulsa",
+    team: "Tulsa Roughnecks FC",
+  division: "images/usl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/tul.png"
   },
 {
   city: "Atlanta",
