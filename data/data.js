@@ -121,7 +121,7 @@ var cities = [{
 },{
   id: 25,
   name: "Indianapolis",
-  state: "Indiani",
+  state: "Indiana",
   country: "USA"
 },{
   id: 26,
@@ -247,6 +247,11 @@ var cities = [{
   id: 50,
   name: "Corpus Christi",
   state: "Texas",
+  country: "USA"
+},{
+  id: 51,
+  name: "Long Island",
+  state: "New York",
   country: "USA"
 }
 ];
@@ -570,6 +575,31 @@ var teams = [
   division: "images/nasl.png",
   website: "http://www.atl.com/",
   image: "images/sf.png"
+}
+, {
+  city: "Indianapolis",
+  team: "Indy Eleven",
+  division: "images/nasl.png",
+  website: "http://www.atl.com/",
+  image: "images/ind.png"
+}, {
+  city: "Miami",
+  team: "Miami FC",
+  division: "images/nasl.png",
+  website: "http://www.atl.com/",
+  image: "images/mia.png"
+}, {
+  city: "Jacksonville",
+  team: "Jacksonville FC",
+  division: "images/nasl.png",
+  website: "http://www.atl.com/",
+  image: "images/jack.png"
+}, {
+  city: "Long Island",
+  team: "New York Cosmos",
+  division: "images/nasl.png",
+  website: "http://www.atl.com/",
+  image: "images/nycos.gif"
 }
 ];
 
