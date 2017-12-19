@@ -35,7 +35,7 @@ var cities = [{
   country: "USA"
 }, {
   id: 8,
-  name: "Harrison",
+  name: "New Jersey",
   state: "New Jersey",
   country: "USA"
 }, {
@@ -105,7 +105,7 @@ var cities = [{
   country: "Canada"
 },{
   id: 22,
-  name: "Carson",
+  name: "Anaheim",
   state: "California",
   country: "USA"
 },{
@@ -142,7 +142,7 @@ var teams = [
   team: "Columbus Crew",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/col.gif"
+  image: "images/col.png"
 },
 {
   city: "District of Columbia",
@@ -173,7 +173,7 @@ var teams = [
   image: "images/nyfc.png"
 },
 {
-  city: "Harrison",
+  city: "New Jersey",
   team: "New York Red Bulls",
   division: "images/mls.png",
   website: "http://www.atl.com/",
@@ -198,7 +198,7 @@ var teams = [
   team: "Toronto FC",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/tor.gof"
+  image: "images/tor.gif"
 },
 {
   city: "Dallas",
@@ -271,7 +271,7 @@ var teams = [
   image: "images/van.gif"
 },
 {
-  city: "Carson",
+  city: "Anaheim",
   team: "LA Galaxy",
   division: "images/mls.png",
   website: "http://www.atl.com/",
@@ -288,7 +288,7 @@ var teams = [
   team: "San Francisco Deltas",
   division: "images/nasl.png",
   website: "http://www.atl.com/",
-  image: "images/sfd.png"
+  image: "images/sf.png"
 }
 ];
 
