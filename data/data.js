@@ -116,21 +116,21 @@ var teams = [
 {
   city: "Atlanta",
   team: "Atlanta United FC",
-  division: "MLS",
+  division: "images/nasl.png",
   website: "http://www.atl.com/",
   image: "images/test.png"
 },
 {
   city: "Chicago",
   team: "Chicago Fire FC",
-  division: "MLS",
+  division: "images/mls.png",
   website: "http://www.chi.com/",
   image: "images/test.png"
 },
 {
   city: "Columbus",
   team: "Columbus Crew",
-  division: "MLS",
+  division: "images/usl.png",
   website: "http://www.atl.com/",
   image: "images/test.png"
 },
