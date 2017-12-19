@@ -31,7 +31,8 @@ app.get('/', function(request, response) {
 });
 
 app.post("/", (request, response) => {
-  response.json(request.body);
+  result.push(request.body)
+  response.json(result);
 });
 
 app.listen(process.env.PORT || 9000, () => {
