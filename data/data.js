@@ -15,7 +15,7 @@ var cities = [{
   country: "USA"
 }, {
   id: 4,
-  name: "Washington",
+  name: "District of Columbia",
   state: "Washington",
   country: "USA"
 }, {
@@ -142,153 +142,153 @@ var teams = [
   team: "Columbus Crew",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/col.gif"
 },
 {
-  city: "Washington",
+  city: "District of Columbia",
   team: "D.C. United",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/dc.png"
 },
 {
   city: "Montreal",
   team: "Montreal Impact FC",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/mon.gif"
 },
 {
   city: "New England",
   team: "New England Revolution",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/ne.gif"
 },
 {
   city: "New York City",
-  team: "New York City United",
+  team: "NYFC",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/nyfc.png"
 },
 {
   city: "Harrison",
   team: "New York Red Bulls",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/nyrb2.png"
 },
 {
   city: "Orlando",
   team: "Orlando United FC",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/orl.png"
 },
 {
   city: "Philadelphia",
   team: "Philadelphia Union",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/phi.gif"
 },
 {
   city: "Toronto",
   team: "Toronto FC",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/tor.gof"
 },
 {
   city: "Dallas",
   team: "FC Dallas",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/dal.gif"
 },
 {
   city: "Houston",
   team: "Houston Dynamo",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/hou.gif"
 },
 {
   city: "Los Angeles",
   team: "LAFC",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/lafc.png"
 },
 {
   city: "Minnesota",
   team: "Minnesota United",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/min.png"
 },
 {
   city: "Portland",
   team: "Portland Timbers",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/poralt.gif"
 },
 {
   city: "Salt Lake City",
   team: "Real Salt Lake",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/rsl.png"
 },
 {
   city: "San Jose",
   team: "San Jose Earthquakes",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/saj.png"
 },
 {
   city: "Seattle",
   team: "Seattle Sounders",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/sea.gif"
 },
 {
   city: "Kansas City",
   team: "Sporting KC",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/kc.png"
 },
 {
   city: "Vancouver",
   team: "Vancouver Whitecaps",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/van.gif"
 },
 {
   city: "Carson",
   team: "LA Galaxy",
   division: "images/mls.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/lag.png"
 },
 {
   city: "Phoenix",
   team: "Phoenix Rising FC",
   division: "images/usl.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/phx.png"
 }, {
   city: "San Francisco Deltas",
   team: "San Francisco Deltas",
   division: "images/nasl.png",
   website: "http://www.atl.com/",
-  image: "images/test.png"
+  image: "images/sfd.png"
 }
 ];
 
