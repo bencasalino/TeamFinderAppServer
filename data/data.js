@@ -130,7 +130,7 @@ var cities = [{
   country: "USA"
 },{
   id: 27,
-  name: "New York",
+  name: "New Jersey",
   state: "New York",
   country: "USA"
 },{
@@ -240,16 +240,11 @@ var cities = [{
   country: "USA"
 },{
   id: 49,
-  name: "Tampa Bay",
-  state: "Florida",
-  country: "USA"
-},{
-  id: 50,
   name: "Corpus Christi",
   state: "Texas",
   country: "USA"
 },{
-  id: 51,
+  id: 50,
   name: "Long Island",
   state: "New York",
   country: "USA"
@@ -343,7 +338,7 @@ var teams = [
     team: "Richmond Kickers",
   division: "images/usl.png",
     website: "http://www.armadafc.com/",
-    image: "images/rich.png"
+    image: "images/rich.gif"
   },
   {
     city: "Reno",
