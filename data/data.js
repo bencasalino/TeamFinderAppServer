@@ -284,7 +284,7 @@ var teams = [
   website: "http://www.atl.com/",
   image: "images/phx.png"
 }, {
-  city: "San Francisco Deltas",
+  city: "San Francisco",
   team: "San Francisco Deltas",
   division: "images/nasl.png",
   website: "http://www.atl.com/",
