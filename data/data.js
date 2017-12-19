@@ -118,11 +118,59 @@ var cities = [{
   name: "San Francisco",
   state: "California",
   country: "USA"
+},{
+  id: 25,
+  name: "Indianapolis",
+  state: "Indiani",
+  country: "USA"
+},{
+  id: 26,
+  name: "Miami",
+  state: "Florida",
+  country: "USA"
+},{
+  id: 27,
+  name: "New York",
+  state: "New York",
+  country: "USA"
+},{
+  id: 28,
+  name: "Jacksonville",
+  state: "Florida",
+  country: "USA"
 }
 ];
 
 // ****************************************************************************
 var teams = [
+  {
+    city: "Indianapolis",
+    team: "Indy Eleven",
+    division: "images/nasl.png",
+    website: "http://www.atl.com/",
+    image: "images/ind.png"
+  },
+  {
+    city: "Miami",
+    team: "Miami FC",
+    division: "images/nasl.png",
+    website: "http://www.atl.com/",
+    image: "images/mia.png"
+  },
+  {
+    city: "New York",
+    team: "NY Cosmos",
+    division: "images/nasl.png",
+    website: "http://www.atl.com/",
+    image: "images/nycos.gif"
+  },
+  {
+    city: "Jacksonville",
+    team: "Jacksonville Armada",
+  division: "images/nasl.png",
+    website: "http://www.armadafc.com/",
+    image: "images/jack.png"
+  },
 {
   city: "Atlanta",
   team: "Atlanta United FC",
@@ -294,24 +342,27 @@ var teams = [
 
 
 
-// function combine(data1, data2) {
-//   var result = [];
-//   for (let i = 0; i < data1.length; i++) {
-//     result.push(data1[i]);
-//     for (let j = 0; j < data2.length; j++) {
-//       if (result[i].name === data2[j].city) {
-//         result[i].team = data2[j].team
-//         result[i].division = data2[j].division
-//         result[i].website = data2[j].website
-//       }
-//     }
-//   }
-//   return result;
-// }
+function combine(data1, data2) {
+  var result = [];
+  for (let i = 0; i < data1.length; i++) {
+    result.push(data1[i]);
+    for (let j = 0; j < data2.length; j++) {
+      if (result[i].name === data2[j].city) {
+        result[i].team = data2[j].team
+        result[i].division = data2[j].division
+        result[i].website = data2[j].website
+        result[i].image = data2[j].image
+      }
+    }
+  }
+  return result;
+}
+// combine(cities, teams);
+
 // console.log(combine(cities, teams));
 
 module.exports = {
-  // jabba,
+  combine,
   cities,
   teams
 }
