@@ -130,121 +130,116 @@ var cities = [{
   country: "USA"
 },{
   id: 27,
-  name: "New Jersey",
-  state: "New York",
-  country: "USA"
-},{
-  id: 28,
   name: "Jacksonville",
   state: "Florida",
   country: "USA"
 },{
-  id: 29,
+  id: 28,
   name: "Bethelehem",
   state: "Pennsylvania",
   country: "USA"
 },{
-  id: 30,
+  id: 29,
   name: "Charleston",
   state: "South Carolina",
   country: "USA"
 },{
-  id: 31,
+  id: 30,
   name: "Charlotte",
   state: "North Carolina",
   country: "USA"
 },{
-  id: 32,
+  id: 31,
   name: "Colorado Springs",
   state: "Colorado",
   country: "USA"
 },{
-  id: 33,
+  id: 32,
   name: "Cincinnati",
   state: "Ohio",
   country: "USA"
 },{
-  id: 34,
+  id: 33,
   name: "Harrisburg",
   state: "Pennsylvania",
   country: "USA"
 },{
-  id: 35,
+  id: 34,
   name: "Louisville",
   state: "Kentucky",
   country: "USA"
 },{
-  id: 36,
+  id: 35,
   name: "Oklahoma City",
   state: "Oklahoma",
   country: "USA"
 },{
-  id: 37,
+  id: 36,
   name: "Orange County",
   state: "California",
   country: "USA"
 },{
-  id: 38,
+  id: 37,
   name: "Ottawa",
   state: "Ontario",
   country: "Canada"
 },{
-  id: 39,
+  id: 38,
   name: "Pittsburg",
   state: "Pennsylvania",
   country: "USA"
 },{
-  id: 40,
+  id: 39,
   name: "Reno",
   state: "Nevada",
   country: "USA"
 },{
-  id: 41,
+  id: 40,
   name: "Richmond",
   state: "Virgina",
   country: "USA"
 },{
-  id: 42,
+  id: 41,
   name: "Rochester",
   state: "New York",
   country: "USA"
 },{
-  id: 43,
+  id: 42,
   name: "Sacramento",
   state: "California",
   country: "USA"
 },{
-  id: 44,
+  id: 43,
   name: "St. Louis",
   state: "Missouri",
   country: "USA"
 },{
-  id: 45,
+  id: 44,
   name: "San Antonio",
   state: "Texas",
   country: "USA"
 },{
-  id: 46,
+  id: 45,
   name: "Springfield",
   state: "Missouri",
   country: "USA"
 },{
-  id: 47,
+  id: 46,
   name: "Tampa Bay",
   state: "Florida",
   country: "USA"
 },{
-  id: 48,
+  id: 47,
   name: "Tulsa",
   state: "Oklahoma",
   country: "USA"
 },{
-  id: 49,
+  id: 48,
   name: "Corpus Christi",
   state: "Texas",
   country: "USA"
 },{
-  id: 50,
+  id: 49,
   name: "Long Island",
   state: "New York",
   country: "USA"
