@@ -263,14 +263,14 @@ var teams = [
     division: "images/mls.png",
     website: "https://www.coloradorapids.com/",
     image: "images/col.gif"
-  },  {
+  },
+  {
     city: "Bethelehem",
     team: "Bethelehem Steel FC",
     division: "images/usl.png",
     website: "http://www.bethlehemsteelfc.com/",
     image: "images/beth.png"
   },
-
   {
     city: "Charleston",
     team: "Charleston Battery",
@@ -278,8 +278,6 @@ var teams = [
     website: "http://www.charlestonbattery.com/",
     image: "images/char.gif"
   },
-
-
   {
     city: "Charlotte",
     team: "Charlotte Independence",
@@ -406,7 +404,6 @@ var teams = [
     website: "http://www.rowdiessoccer.com/",
     image: "images/tb.png"
   },
-
   {
     city: "Tulsa",
     team: "Tulsa Roughnecks FC",
@@ -609,7 +606,7 @@ var teams = [
 ];
 
 
-
+// for testing TDD
 function combine(data1, data2) {
   var result = [];
   for (let i = 0; i < data1.length; i++) {
@@ -626,7 +623,6 @@ function combine(data1, data2) {
   return result;
 }
 // combine(cities, teams);
-
 // console.log(combine(cities, teams));
 
 module.exports = {
