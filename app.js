@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const app = express();
+
 const data = require("./data/data");
 const cities = data.cities
 const teams = data.teams
@@ -36,7 +37,4 @@ app.post("/", (request, response) => {
 });
 
 app.listen(process.env.PORT || 9000, () => {
-  console.log("this is the app js log");
 });
-
-// console.log(combine(cities, teams));
